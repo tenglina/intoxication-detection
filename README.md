@@ -1,2 +1,2 @@
 # intoxication-detection
-Using machine learning to detect intoxicated drivers
+Using Computer Vision to detect intoxicated drivers
